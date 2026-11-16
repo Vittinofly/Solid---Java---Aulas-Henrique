@@ -3,7 +3,7 @@
 **Centro Universitário Unibras – Montes Belos**
 Engenharia de Software – 6º Período – 2026/2
 Disciplina: Arquitetura e Projeto de Software – Prof. Henrique Santiago
-Aluno(a): **[SEU NOME AQUI]**
+Aluno(a): **Victor Hugo Rodrigues Silva**
 
 ---
 
